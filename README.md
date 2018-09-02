@@ -12,3 +12,5 @@ totalSupply = 500000000e18;
 ## Token Inheritance
 ![](https://raw.githubusercontent.com/LamonedaEVN/smart-contracts/master/galery/Token%20inheritance.png)
 
+## Token page on etherscan
+[LMDA on etherscan](https://etherscan.io/token/0xdf0456311751799f7036b373cdb6f6dfde04e3b6)
