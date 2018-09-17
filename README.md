@@ -3,8 +3,8 @@ Smart contracts using Solidity stable version 0.4.19, `0.4.19+commit.c4cbbb05.Em
 
 ## Token information
 ```JavaScript
-name = "LaMonedaCoin";
-symbol = "LMDA";
+name = "Lamoneda";
+symbol = "LMA";
 decimals = 18;
 totalSupply = 500000000e18;
 ```
@@ -13,4 +13,4 @@ totalSupply = 500000000e18;
 ![](https://raw.githubusercontent.com/LamonedaEVN/smart-contracts/master/galery/Token%20inheritance.png)
 
 ## Token page on etherscan
-[LMDA on etherscan](https://etherscan.io/token/0xdf0456311751799f7036b373cdb6f6dfde04e3b6)
+[LMA on etherscan](https://etherscan.io/address/0xbad1a84d8bb34cbb20a0884fa2b9714323530558)
