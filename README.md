@@ -6,7 +6,7 @@ Smart contracts using Solidity stable version 0.4.19, `0.4.19+commit.c4cbbb05.Em
 name = "Lamoneda";
 symbol = "LMA";
 decimals = 18;
-totalSupply = 500000000e18;
+totalSupply = 250000000e18;
 ```
 
 ## Token Inheritance
